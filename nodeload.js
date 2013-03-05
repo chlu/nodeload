@@ -8,4 +8,4 @@ var include = function(name) {
 
 include('./lib/config');
 include('./lib/loadtesting');
-include('./lib/remote')
+include('./lib/remote');
